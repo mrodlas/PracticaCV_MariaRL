@@ -17,6 +17,7 @@ namespace PracticaCV_MariaRL
             // PROCESAMIENTO
 
             // SALIDA
+            Console.WriteLine("Mi nombre es: MariaRL");
 
         }
     }
