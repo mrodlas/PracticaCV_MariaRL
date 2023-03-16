@@ -8,5 +8,15 @@ namespace PracticaCV_MariaRL
 {
     internal class Clase_MariaRL
     {
+        // CONSTANTES
+
+        // MIEMBROS PRIVADOS
+
+        // CONSTRUCTORES
+
+        // PROPIEDADES
+
+        // METODOS PUBLICOS
+
     }
 }
