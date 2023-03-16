@@ -6,13 +6,18 @@ namespace PracticaCV_MariaRL
     {
         static void Main(string[] args)
         {
-           //CONSTANTES
-           //VARIABLES
-           //INICIALIZACIÓN
-           //ENTRADA
-           //PROCESAMIENTO
-           //SALIDA
-           
+            // CONSTANTES
+
+            // VARIABLES
+
+            // INICIALIZACIÓN
+
+            // ENTRADA
+
+            // PROCESAMIENTO
+
+            // SALIDA
+
         }
     }
 }
